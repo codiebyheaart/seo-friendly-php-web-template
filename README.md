@@ -1,0 +1,1 @@
+# seo-friendly-php-web-template
